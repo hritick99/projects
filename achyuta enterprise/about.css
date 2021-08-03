@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #313131;
+    
+
+}
+header{
+    padding: 20px;
+    background-color:rgb(235, 243, 236);
+    background-image: url(motherboard.jpg);  
+    background-size: cover;
+      
+}
+h1{
+    color:whitesmoke;
+    font-style:normal;
+    text-align: center;
+}
+nav {
+    background-color:cyan;
+    color:white;
+    padding: 10px;
+    text-align: center;
+}
+a{
+    color:black;
+    text-decoration-line: none;
+}
+img.founder{
+    display: block;
+    margin: 0 auto;
+}
+p{
+    color: white;
+    text-align: center;
+}
+footer{
+    
+    background-color: gainsboro;
+    padding: 15px
+}
